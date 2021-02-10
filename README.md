@@ -5,7 +5,7 @@ This package helps generating Google stackdriver conform logging data.
 Currently the scope is limited to generate log messages to print towards STDOUT, so strongly depends on goolge-fluentd agent (pre-installed on GCE or GKE if logging has been activated)
 
 ## Installation
-    go get -u github.com/yuenfaytsang/stackdriver
+    go get -u github.com/yuenfaytsang/golang-stackdriver
 
 ## Usage
 Import into your Project:
